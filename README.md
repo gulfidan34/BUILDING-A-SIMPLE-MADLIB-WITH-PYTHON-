@@ -1,5 +1,4 @@
-# BUILDING-A-SIMPLE-MADLIB-WITH-PYTHON-
-
+# Building a simple madlib with Python
 INTRODUCTION:
 
 MAD LIBS is one of the world’s fun word games. Some would even call it one of the ‘GREATEST WORD GAME”. If you enjoy playing around with words, then you probably agree with this phrase.
